@@ -1,0 +1,21 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+header {
+  background: linear-gradient(120deg, #6a11cb 0%, #2575fc 100%);
+  color: rgb(255, 255, 255);
+}
+
+.card img {
+  border-radius: 10px;
+}
+.carousel-img{
+    max-height: 10px;
+    width: 100%;
+    object-fit: cover;
+    
+}
+h5{
+  color:black
+}
